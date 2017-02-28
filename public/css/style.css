@@ -1,0 +1,61 @@
+
+body{
+	background-color: black;
+}
+
+h3 {
+	margin: 0;
+}
+
+h2{
+	color: white;
+	font-family: times;
+}
+.panel-heading{
+background-image: linear-gradient(to bottom,#5cb85c 0,#333 100%);
+}
+
+.panel-title{
+	color: white;
+	font-family: times;
+}
+.titleNews {
+	min-height: 35px;
+	font-family: times;
+}
+#navHeader
+{
+	background-color: black;
+	font-family: Times;
+	background-repeat: repeat-x;
+	border-color: #080808;
+	border-width: 0 0 1px;
+	border: 1px solid transparent;
+	margin-bottom: 20px;
+	min-height: 50px;
+	position: relative
+	top: 0;
+}
+#pageSubTitle {
+	color: #FFF;
+	font-size: 20px;
+	font-family: times;
+	background-color: gray;
+}
+#pageTitle {
+	color: white;
+	font-size: 50px;
+}
+
+#savedSection .panel-body {
+    padding: 0;
+}
+#savedSection .savedArticle {
+	border-top: 0;
+	border-right: 1px;
+	border-bottom: 1px;
+	border-left: 1px;
+	border-color: #778899;
+	border-style: solid;
+	padding: 10px;
+}
